@@ -28,7 +28,7 @@ To install MPF on a Mac:
 
    This will also install the Xcode command line tools if you don't have them. A lot of stuff will scroll by and it might take awhile.
 
-3. Use Homebrew (or 'brew') to install the libraries and other support files MPF needs: ``brew install SDL2 SDL2_mixer SDL2_image gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly pipx``
+3. Use Homebrew (or 'brew') to install the libraries and other support files MPF needs: ``brew install SDL2 SDL2_mixer SDL2_image gstreamer pipx``
 
 4. Run ``pipx ensurepath`` which will configure things pipx installs to be able to run from anywhere.
 
